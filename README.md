@@ -1,6 +1,6 @@
 # Rolan Badrislamov
 
-Currently Software Engineering student at [**UE**](https://www.ue-germany.com/)
+Software Engineer at SAP. Ex-Deloitte
 
 ![gmail](https://img.shields.io/badge/-@rolanbadrislamov@gmail.com-161616?style=flat-square&labelColor=161616&logo=Gmail&logoColor=white&color=161616)
 <br>
